@@ -93,5 +93,5 @@ The best-performing models are stored in the `results` dictionary. The top model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/online_shoppers_intention.git
-   cd online_shoppers_intention
+   git clone https://github.com/alexsameri/online_purchase.git
+   cd online_purchase
